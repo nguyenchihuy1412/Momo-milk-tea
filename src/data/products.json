@@ -1,0 +1,147 @@
+{
+  "products": [{
+      "id": 1,
+      "name": "Royal Milk Tea",
+      "price": 4.8,
+      "toppings": "Milk foam, white pearl",
+      "trending": true,
+      "storeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Green Milk Tea",
+      "price": 4.6,
+      "toppings": "cheese choco, vera, peach",
+      "trending": false,
+      "storeId": 1
+    },
+    {
+      "id": 3,
+      "name": "Oolong Milk Tea",
+      "price": 5.1,
+      "toppings": "Milk foam, vera, peach",
+      "trending": false,
+      "storeId": 1
+    },
+    {
+      "id": 4,
+      "name": "Blueberry Milk Tea",
+      "price": 5.1,
+      "toppings": "Milk foam, white pearl, vera, peach",
+      "trending": false,
+      "storeId": 1
+    },
+    {
+      "id": 5,
+      "name": "Peach Milk Tea",
+      "price": 5.5,
+      "toppings": "Milk foam, white pearl, cheese choco, peach",
+      "trending": true,
+      "storeId": 2
+    },
+    {
+      "id": 6,
+      "name": "Kiwi Milk Tea",
+      "price": 5.1,
+      "toppings": "Milk foam, white pearl, cheese choco, vera",
+      "trending": false,
+      "storeId": 2
+    },
+    {
+      "id": 7,
+      "name": "Grapefruit Tea",
+      "price": 4.3,
+      "toppings": "vera, peach",
+      "trending": false,
+      "storeId": 2
+    },
+    {
+      "id": 8,
+      "name": "Choco Coffe Cream",
+      "price": 4.5,
+      "toppings": "Milk foam, peach",
+      "trending": false,
+      "storeId": 3
+    },
+    {
+      "id": 9,
+      "name": "Cereal Rose Tea",
+      "price": 5.5,
+      "toppings": "Milk foam, white pearl, peach",
+      "trending": true,
+      "storeId": 3
+    },
+    {
+      "id": 10,
+      "name": "Grass Jerry Mikl",
+      "price": 4.9,
+      "toppings": "Milk foam, white pearl, cheese choco, vera",
+      "trending": false,
+      "storeId": 3
+    },
+    {
+      "id": 11,
+      "name": "Royal Pearl Milk",
+      "price": 5.5,
+      "toppings": "Milk foam, cheese choco, vera, peach",
+      "trending": true,
+      "storeId": 3
+    },
+    {
+      "id": 12,
+      "name": "Tiger Sugar",
+      "price": 5.3,
+      "toppings": "white pearl, cheese choco, vera, peach",
+      "trending": true,
+      "storeId": 4
+    },
+    {
+      "id": 13,
+      "name": "Momo milk tea",
+      "price": 5.9,
+      "toppings": "Milk foam, white pearl, cheese choco, vera,peach",
+      "trending": true,
+      "storeId": 1
+    },
+    {
+      "id": 14,
+      "name": "Choco Creamcake",
+      "price": 4.8,
+      "toppings": "Milk foam, white pearl, vera, peach",
+      "trending": true,
+      "storeId": 4
+    },
+    {
+      "id": 15,
+      "name": "Panda Milk Tea",
+      "price": 5.3,
+      "toppings": "Milk foam, cheese choco, vera, peach",
+      "trending": false,
+      "storeId": 4
+    },
+    {
+      "id": 16,
+      "name": "Royal Tiger Sugar",
+      "price": 5.5,
+      "toppings": "Milk foam, white pearl, cheese choco",
+      "trending": false,
+      "storeId": 1
+    },
+    {
+      "id": 17,
+      "name": "Cheese Milk Tea",
+      "price": 4.7,
+      "toppings": "Milk foam, cheese choco, vera, peach",
+      "trending": false,
+      "storeId": 4
+    },
+    {
+      "id": 18,
+      "name": "Lala Milk Tea",
+      "price": 5.9,
+      "toppings": "white pearl, cheese choco, vera, peach",
+      "trending": true,
+      "storeId": 3
+    }
+  ]
+}
